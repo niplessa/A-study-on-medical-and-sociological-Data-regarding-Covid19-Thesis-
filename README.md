@@ -1,5 +1,11 @@
 # Thesis_Data-mining-study-on-medical-and-sociological-Data-regarding-Covid19
-Thesis desctiption: A data mining study on medical and sociological datasets regarding Covid19. Repository includes code - Jupyter Notebooks -, datasets and text -Greek-
+Thesis desctiption: A data mining study on medical and sociological datasets regarding Covid19. 
+Repository includes code (Jupyter Notebooks), datasets and text (Greek).
+
+- EDA notebooks: Data exploration, visualizations, in depth country and continent analysis (cases,deaths,mortality,correlations). Countries clustering.
+- Predictions notebooks: SIR epidemic model and timeseries/regression predictions.
+- Classification notebooks: ML models on clinical data
+- NLP notebooks : Articles & tweets analysis. Clustering, topic labeling, sentiment analysis. Fake news classifier.
 
 Best viewed using NBviewer: 
 
